@@ -1,16 +1,17 @@
 ## Hi there 👋
 
-<!--
-**Dheerajmlk/Dheerajmlk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Dheeraj!
 
-Here are some ideas to get you started:
+## 🌐 About Me
+- 🔭 **Aspiring Web Developer**
+- 🌟 **Skills:** MERN Stack | Next.js
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⚙️ Tools & Technologies
+- **Frontend**: HTML, CSS, JavaScript, React.js, Next.js
+- **Backend**: Node.js, Express.js, MongoDB
+- **Version Control & Others**: Git, GitHub, Sanity
+
+## 📫 Contact Me
+- **Email**: [dheerajmlk123@gmail.com](mailto:dheerajmlk123@gmail.com)
+- **Phone**: 7011101355
+
